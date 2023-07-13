@@ -1,0 +1,21 @@
+h1{
+    background-color: aquamarine ;
+    color: rgb(12, 13, 13);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    /* text-align: center; */
+    text-decoration: underline;
+    text-transform: capitalize;
+    word-spacing: 20px;
+    /* direction: ltr; (ltr = left to right ) */
+    direction: rtl;
+    font-weight: bolder; 
+}
+
+p{
+    background-color: black;
+    color: wheat;
+    text-align: justify;
+    padding: 30%;
+    font-size: large;
+}
+

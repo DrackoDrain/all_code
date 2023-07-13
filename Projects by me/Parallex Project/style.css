@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(251, 255, 255);
+    min-height: 100vh;
+}
+header{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 30px 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 100; 
+}
+
+.logo{
+    font-size: 2em;
+    color: aquamarine;
+    pointer-events: none;
+    
+}
+.navigation{
+    margin-right: 60px;
+}

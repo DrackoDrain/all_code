@@ -1,0 +1,1 @@
+// c program to calculate area of different shapes (circle,rectangle,traingle) using fu

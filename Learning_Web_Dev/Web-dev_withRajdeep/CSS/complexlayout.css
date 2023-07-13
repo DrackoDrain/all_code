@@ -1,0 +1,166 @@
+.master{
+    width: 1200px;
+    height: 1200px;
+    /* background-color: rgb(123, 94, 123); */
+    margin: 0 auto;
+ 
+}
+
+
+
+.big{
+    width: 800px;
+    float: left;
+    clear: right;
+    
+    
+}
+
+.pink{
+    width: 760px;
+    height: 200px;
+    background-color: pink;
+    margin-bottom: 50px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.yellow{
+    width: 300px;
+    height: 200px;
+    background-color: yellow;
+    float: left;
+    margin-left: 20px;
+}
+
+.green{
+    width: 300px;
+    height: 200px;
+    background-color: green;
+    float: right;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 30px;
+
+   
+}
+
+
+.blackbig{
+    width: 800px;   
+    height: 400px;
+   /* background-color: rgb(250, 175, 175); */
+    clear: both;
+
+    margin-left: 20px;
+    margin-top: 80px;
+
+
+
+}
+.black1{
+    width: 160px;
+    height: 300px;
+    background-color: black;
+    clear: both;
+    float: left;
+    margin-top: 40px;
+    margin-left: 20px ;
+
+}
+.black2{
+    width: 160px;
+    height: 300px;
+    background-color: black;
+    float: left;
+    margin-top: 40px;
+    margin-left: 30px ;
+
+}
+.black3{
+    width: 160px;
+    height: 300px;
+    background-color: black;
+    float: left;
+    margin-top: 40px;
+    margin-left: 30px ;
+}
+.black4{
+    width: 160px;
+    height: 300px;
+    background-color: black;
+    float: left;
+    margin-top: 40px;
+    margin-left: 30px ;
+}
+
+.big2{
+    width: 400px;
+    height: 1000px;
+    /* background-color: black; */
+    float: right;
+}
+
+.three{
+    width: 400px;
+    height: 450px;
+    /* background-color: rgb(118, 118, 0); */
+    clear: both;
+}
+
+.purple{
+    width: 100px;
+    height: 400px;
+    background-color: purple;
+    float: left;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.green1{
+    width: 100px;
+    height: 400px;
+    background-color: rgb(13, 241, 70);
+    float: left;
+    margin-left: 20px;
+    margin-top: 20px;
+
+}
+
+.grey{
+    width: 100px;
+    height: 400px;
+    background-color: rgb(127, 129, 124);
+    float: left;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.seco{
+    width: 400px;
+    height: 800px;
+    /* background-color: brown; */
+    margin-top: 20px;
+
+}
+
+.teal
+{
+    width: 350px;
+    height: 200px;
+    background-color: teal;
+    margin-top: 20px;
+    margin-left: 25px;
+  
+}
+
+.cyan{
+    width: 350px;
+    height: 200px;
+    background-color: cyan;
+    margin-top: 40px;
+    margin-left: 25px;
+}
+   
+ 
+ 
